@@ -11,6 +11,8 @@
     height: 100vh;
     width: auto;
     background-color: #fff;
+    max-width: 90rem;
+    margin: auto;
     }
 
     .navbar {
@@ -34,7 +36,7 @@
         font-size: 22px;
         gap: 45px;
         font-family: sans-serif;
-        margin-left: 320px;
+        margin-left: 100px;
         }
 
     .list-items:nth-child(1) {
@@ -43,9 +45,8 @@
     }
 
     .button {
-        font-size: 23px;
-        padding: 10px 40px;
-        margin-right: 170px;
+        font-size: 20px;
+        padding: 8px 30px;
         color: #1B98F5;
         font-family: sans-serif;
         background-color: transparent;
@@ -58,23 +59,23 @@
 
     .Websites {
         font-family: sans-serif;
-        font-size: 70px;
-        line-height: 90px;
-        margin-bottom: 50px;
+        font-size: 55px;
+        line-height: 73px;
+        margin-bottom: 30px;
     }
     
     .choose-package {
         font-family: sans-serif;
-        font-size: 18px;
-        line-height: 35px;
+        font-size: 17px;
+        line-height: 30px;
         color: grey;
         margin-bottom: 50px;
     }
 
     .button1 {
         font-family: sans-serif;
-        font-size: 20px;
-        padding: 20px 55px;
+        font-size: 18px;
+        padding: 15px 30px;
         border-radius: 10px;
         border-color: #fff;
         color: #fff;
@@ -88,21 +89,20 @@
         }
 
     .Heroimage {
-            height: 530px;
+            height: 450px;
             float: right;
-            margin-top: -510px;
-            margin-right: 100px;
+            margin-top: -430px;
          }
 
     .header2 {
-        margin-left: 950px;
+        margin-left: 820px;
         margin-top: 350px;
     }
 
     .testimage {
-        height: 720px;
+        height: 650px;
         margin-left: 100px;
-        margin-top: -560px;
+        margin-top: -500px;
      }
 
      .header3 {
@@ -111,10 +111,10 @@
      }
      
      .Technicalimage {
-        height: 800px;
+        height: 650px;
         float: right;
-        margin-top: -600px;
-        margin-right: 100px;
+        margin-top: -500px;
+        margin-right: 50px;
      }
 
      .services {
@@ -124,16 +124,16 @@
      
      .services h1 {
        font-family: sans-serif;
-       font-size: 65px;
+       font-size: 52px;
      }
 
      .services p {
         font-family: sans-serif;
-        font-size: 20px;
+        font-size: 17px;
         line-height: 25px;
         color: gray;
         float: right;
-        margin-right: 200px;
+        margin-right: 100px;
         margin-top: -100px;
      }
  
@@ -146,20 +146,20 @@
      }
 
      .cloud {
-        height: 50px;
+        height: 45px;
         margin-bottom: 30px;
     }
 
     .icons h2 {
         font-family: sans-serif;
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 30px;
     }
 
     .icons p {
         color: gray;
-        font-size: 18px;
-        line-height: 30px;
+        font-size: 14px;
+        line-height: 25px;
     }
     
     .icons2 {
@@ -172,14 +172,14 @@
 
     .icons3 h2 {
         font-family: sans-serif;
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 30px;
     }
 
     .icons3 p {
         color: gray;
-        font-size: 18px;
-        line-height: 30px;
+        font-size: 14px;
+        line-height: 25px;
     }
 
     .header5 {
@@ -194,7 +194,7 @@
         display: flex;
         flex-direction: row;
         gap: 30px;
-        margin-left: 230px;
+        justify-content: center;
         margin-top: 100px;
     }
 
@@ -206,7 +206,7 @@
         
     .packages {
         height: 750px;
-        width: 450px;
+        width: 400px;
         background-color: #fff;
         border-radius: 10px;
         margin-bottom: 120px;
@@ -214,7 +214,7 @@
 
     .packagess {
         height: 750px;
-        width: 450px;
+        width: 400px;
         background-color: #fff;
         border-radius: 10px;
         margin-bottom: 120px;
@@ -245,7 +245,7 @@
         color: #fff;
         background-color: #000;
         border-radius: 10px;
-        width: 450px;
+        width: 400px;
         height: 150px;
         padding-left: 50px;
         padding-top: 25px;
@@ -306,8 +306,8 @@
     }
 
     .choose1 {
-        font-size: 23px;
-        padding: 10px 40px;
+        font-size: 18px;
+        padding: 15px 30px;
         color: #1B98F5;
         font-family: sans-serif;
         background-color: transparent;
@@ -321,14 +321,14 @@
 
     .choose2 {
         font-family: sans-serif;
-        font-size: 20px;
-        padding: 12px 50px;
+        font-size: 18px;
+        padding: 15px 30px;
         border-radius: 10px;
         border-color: #fff;
         color: #fff;
         background: linear-gradient(#7f84ff,#46B2E0);
         box-shadow: 1px 1px 50px rgb(174, 195, 199);
-        margin-top: 20px;
+        margin-top: 30px;
         margin-left: 85px;
     }
 
@@ -478,8 +478,8 @@
     .navbar-link {
         color: gray;
         font-family: serif;
-        margin-left: 160px;
-        font-size: 20px;
+        margin-left: 50px;
+        font-size: 15px;
     }
 
     .logo1 {
@@ -495,18 +495,18 @@
         display: flex;
         flex-direction: row;
         gap: 100px;
-        margin-left: 600px;
+        margin-left: 400px;
         margin-top: -190px;
      }
     
      .menus {
         font-family: serif;
         color: gray;
-        font-size: 18px;
+        font-size: 15px;
      }
 
      .linkss:nth-child(1) {
-        font-size: 35px;
+        font-size: 25px;
         color: #000;
         font-family: serif;
      }
