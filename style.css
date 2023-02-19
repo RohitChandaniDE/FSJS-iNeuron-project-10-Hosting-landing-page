@@ -479,7 +479,6 @@
         color: gray;
         font-family: serif;
         margin-left: 50px;
-        font-size: 15px;
     }
 
     .logo1 {
@@ -489,6 +488,7 @@
     }    
      .navbar-link p {
         line-height: 30px;
+        font-size: 15px;
      }
 
      .Overview {
@@ -519,9 +519,546 @@
         height: 40px;
         margin-left: 16.5px;
     }
-    
-    
 
+  /* Responsive Design */
+    
+    @media screen and (max-width: 1215px)  {
+        .list {
+            font-size: 15px;
+            gap: 35px;
+            }
+
+        .button {
+                font-size: 15px;
+                padding: 5px 15px;
+            }
+
+        .Websites {
+                font-size: 45px;
+                line-height: 50px;
+            }
+            
+        .choose-package {
+                font-size: 12px;
+                line-height: 20px;
+                margin-bottom: 20px;
+            }
+        
+        .button1 {
+                font-size: 13px;
+                padding: 10px 20px;
+            }
+
+        .Heroimage {
+                height: 350px;
+                margin-top: -300px;
+             }
+
+        .testimage {
+                height: 450px;
+                margin-top: -370px;
+             }
+
+        .header2 {
+                margin-left: 650px;
+            }
+        
+        .Technicalimage {
+                height: 450px;
+                margin-top: -350px;
+                margin-right: -1px;
+             }
+
+        .services h1 {
+                font-size: 40px;
+              }
+         
+        .services p {
+                 font-size: 13px;
+                 line-height: 22px;
+                 margin-right: 30px;
+                 margin-top: -80px;
+              }
+
+        .header5 {
+               font-size: 70px;
+            }
+
+        .packages {
+                height: 750px;
+                width: 300px;
+            }
+
+        .packagess {
+                height: 750px;
+                width: 300px;
+                }
+
+        .packages h2 {
+                 font-size: 25px;
+                }
+             
+        .packages h3 {
+                font-size: 14px;
+                }
+
+        .packagess h2 {
+                 font-size: 25px;
+                }
+
+        .packagess h2 {
+                 width: 301px;
+                }
+             
+        .packagess h3 {
+                font-size: 14px;
+                }
+
+         .data {
+                margin-left: 70px;
+                font-size: 15px;
+                line-height: 60px;
+                }
+
+        .packages h1 {
+                font-size: 25px;
+                 margin-left: 70px;
+                }
+        
+        .packagess h1 {
+                font-size: 25px;
+                margin-left: 70px;
+                }
+                 
+        .packages h4 {
+                 margin-left: 90px;
+                 font-size: 15px;
+                }
+
+        .packagess h4 {
+                 margin-left: 90px;
+                 font-size: 15px;
+                }
+
+        .choose1 {
+                font-size: 14px;
+                 padding: 12px 20px;
+                 margin-left: 85px;     
+                } 
+
+        .choose2 {
+                font-size: 14px;
+                padding: 12px 20px;
+                margin-left: 85px;     
+                }                         
+                             
+        .Our-customer h1 {
+               font-size: 40px;
+            }
+        
+        .Our-customer p {
+                font-size: 15px;
+                line-height: 20px;
+            }
+
+        .Michael p {
+                font-size: 14px;
+            }
+
+        .Michaell p {
+                font-size: 14px;
+            }
+            
+        .Minim {
+                height: 285px;
+                width: 450px;
+            }
+        
+        .Minimm {
+             height: 285px;
+             width: 450px;
+            }
+
+        .Quit h1 {
+                font-family: serif;
+                font-size: 50px;
+                color: #fff;
+                margin-left: 50px;
+            }
+        
+        .Quit p {
+                font-size: 15px;
+                margin-left: 50px;
+                line-height: 20px;
+            }
+        
+        .Register {
+                font-size: 20px;
+                padding: 10px 40px;
+                margin-right: 50px;
+            }
+        
+        .logo1 {
+                height: 40px;
+                margin-top: 100px;
+            }    
+        .navbar-link p {
+                line-height: 20px;
+                font-size: 12px;
+             }
+
+        .Overview {
+                gap: 30px;
+                margin-left: 300px;
+                margin-top: -160px;
+             }
+        
+        .linkss:nth-child(1) {
+                font-size: 20px;
+             }
+
+        .menus {
+                font-size: 10px;
+             }
+        
+    }
+
+    @media screen and (max-width: 1010px)  {
+        .logo {
+            margin-top: 60px;
+            height: 20px;
+            margin-left: 100px;
+        }
+        .list {
+            font-size: 10px;
+            margin-left: 10px;
+            }
+
+        .button {
+                font-size: 10px;
+                padding:10px 10px;
+            }
+
+        .Websites {
+                font-size: 30px;
+                line-height: 30px;
+            }
+            
+        .choose-package {
+                font-size: 9px;
+                line-height: 12px;
+            }
+        
+        .button1 {
+                font-size: 10px;
+                padding:8px 15px;
+            }
+
+        .Heroimage {
+                height: 270px;
+                margin-top: -220px;
+             }
+
+        .testimage {
+                height: 320px;
+                margin-top: -270px;
+             }
+
+        .header2 {
+                margin-left: 450px;
+            }
+
+        .container3 {
+            margin-top: -150px;
+        }
+        
+        .Technicalimage {
+                height: 300px;
+                margin-top: -250px;
+             }
+
+        .container4 {
+             margin-top: -100px;
+        }
+
+        .services {
+            margin-top: 200px;
+         }
+
+        .services h1 {
+                font-size: 30px;
+              }
+         
+        .services p {
+                 font-size: 10px;
+                 line-height: 15px;
+                 margin-right: 10px;
+                 margin-top: -60px;
+              }
+
+         .icons {
+                margin-left: 100px;
+                gap: 50px;
+             }
+
+         .icons2 {
+                margin-left: 100px;
+                gap: 50px;
+             }
+
+        .header5 {
+               font-size: 50px;
+            }
+
+        .packages {
+                height: 600px;
+                width: 220px;
+            }
+
+        .packagess {
+                height: 600px;
+                width: 220px;
+                }
+
+        .packagess h2 {
+                width: 221px;
+                height: 130px;
+                }
+
+        .packages h2 {
+                 font-size: 18px;
+                }
+             
+        .packages h3 {
+                font-size: 10px;
+                }
+
+        .packagess h2 {
+                 font-size: 18px;
+                }
+             
+        .packagess h3 {
+                font-size: 10px;
+                }
+
+         .data {
+                margin-left: 50px;
+                font-size: 13px;
+                line-height: 40px;
+                }
+
+        .packages h1 {
+                font-size: 15px;
+                margin-left: 50px;
+                }
+        
+        .packagess h1 {
+                font-size: 15px;
+                margin-left: 50px;
+                }
+                 
+        .packages h4 {
+                 margin-left: 60px;
+                 font-size: 10px;
+                }
+
+        .packagess h4 {
+                 margin-left: 60px;
+                 font-size: 10px;
+                }
+
+        .choose1 {
+                font-size: 10px;
+                 padding: 10px 15px;
+                 margin-left: 55px;     
+                } 
+
+        .choose2 {
+            font-size: 10px;
+            padding: 10px 15px;
+            margin-left: 55px;    
+                }                         
+                             
+        .Our-customer h1 {
+               font-size: 35px;
+            }
+        
+        .Our-customer p {
+                font-size: 13px;
+                line-height: 20px;
+            }
+
+        .Michael p {
+                font-size: 12px;
+            }
+
+        .Michaell p {
+                font-size: 12px;
+            }
+            
+        .Minim {
+                height: 285px;
+                width: 365px;
+            }
+        
+        .Minimm {
+             height: 285px;
+             width: 365px;
+            }
+
+        .Quit h1 {
+                font-size: 40px;
+            }
+        
+        .Quit p {
+                font-size: 13px;
+            }
+        
+        .Register {
+                margin-right: 20px;
+            }
+        
+        .logo1 {
+                height: 30px;
+            }    
+        .navbar-link p {
+                line-height: 15px;
+                font-size: 9px;
+             }
+
+        .Overview {
+                gap: 5px;
+                margin-left: 200px;
+                margin-top: -140px;
+             }
+
+        .sociall {
+                height: 20px;
+                margin-left: 16.5px;
+                }
+        
+        .linkss:nth-child(1) {
+                font-size: 18px;
+             }
+        }
+
+    @media screen and (max-width: 750px) {
+        .list  {
+            display: none;
+        }
+        .container2 {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-items: center;
+            margin-top: 300px;
+        }
+        .header1 {
+            margin-top: 80px;
+            margin-left: 1px;
+            text-align: center;
+        }
+        .container3 {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-items: center;
+            margin-top: 300px;
+        }
+        .header2 {
+            margin-top: 80px;
+            margin-left: 1px;
+            text-align: center;
+        }
+        .testimage {
+            margin-left: 1px;
+         }
+         .container4 {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-items: center;
+            margin-top: 300px;
+        }
+        .header3 {
+            margin-top: 80px;
+            margin-left: 1px;
+            text-align: center;
+        }
+        .services {
+            margin-top: 100px;
+            }
+        .header4 {
+                margin-left: -100px;
+                text-align: center;
+            }
+    
+        .services h1 {
+            font-size: 30px;
+              }
+         
+        .services p {
+            margin-top: 10px;
+              }
+
+        .icons {
+            display: flex;
+            flex-direction: column;
+             justify-content: center;
+             align-items: center;
+             text-align: center;
+            }
+        .icons2 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+                }
+        .Boxshadow {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            }
+        .Michael {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+            
+        }
+        .Michaell {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+        }
+        .Quit {
+           text-align: center;
+        }
+        .Register {
+            margin-top: -50px;
+            margin-right: 60px;
+        }
+        .navbar-link {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        } 
+        .Overview {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-left: 35px;
+            margin-top: -10px; 
+        }
+     }
 
 
         
